@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Who is Mohammed?
 
-You can use the [editor on GitHub](https://github.com/MohammedTotanawala/portfolio.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Mohammed is a student currently studying in a well known Arabic University, Aljamea tus Saifiyah. All good in him is from here. The most uncommon thing about him is that he is sle believer of what Bill Gates have quoted  "I will always choose a **lazy** person to do a **difficult job** because a **lazy person** will find an **easy** way to do it."  So, if you have some work that's not being done, you know the right person for it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## His Projects
 
-### Markdown
+Being a beginner in web development, Mohammed has worked on 2 wholly projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. theclassof1444.com
+An online portal for the students enrolled in the year 1433 H in Aljamea tus Saifiyah.
 
-```markdown
-Syntax highlighted code block
+2. TDF Projects
+Let the suspense spread.
 
-# Header 1
-## Header 2
-### Header 3
+## Software Using
 
-- Bulleted
-- List
+Being upgraded about the Tech in this market is a must, for Mohammed, Sublime Text is the best paired with modern technology available right now.
 
-1. Numbered
-2. List
+## Contact Details
 
-**Bold** and _Italic_ and `Code` text
+For contacting him, you can mail at mohammedtotanawala30@gmail.com. But remember, he's a bit lazy, may take time to reply.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MohammedTotanawala/portfolio.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Gracias**
