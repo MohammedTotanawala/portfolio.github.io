@@ -12,7 +12,7 @@ Being a beginner in web development, Mohammed has worked on 2 wholly projects
 
 2. TDF Projects
 
-- Let the suspense continue.
+- A work in progress website consisting student centric forums and progressive projects for the improvement of their skills.
 
 ## Software Using
 
