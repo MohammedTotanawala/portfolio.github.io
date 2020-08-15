@@ -7,10 +7,12 @@ Mohammed is a student currently studying in a well known Arabic University, Alja
 Being a beginner in web development, Mohammed has worked on 2 wholly projects
 
 1. theclassof1444.com
-An online portal for the students enrolled in the year 1433 H in Aljamea tus Saifiyah.
+
+- An online portal for the students enrolled in the year 1433 H in Aljamea tus Saifiyah.
 
 2. TDF Projects
-Let the suspense spread.
+
+- Let the suspense continue.
 
 ## Software Using
 
@@ -19,5 +21,6 @@ Being upgraded about the Tech in this market is a must, for Mohammed, Sublime Te
 ## Contact Details
 
 For contacting him, you can mail at mohammedtotanawala30@gmail.com. But remember, he's a bit lazy, may take time to reply.
+
 
 **Gracias**
